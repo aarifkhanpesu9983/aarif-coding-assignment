@@ -1,4 +1,4 @@
-Number of employees: 43
+Number of employees: 10
 
 Goodies and Prices:
 
