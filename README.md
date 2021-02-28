@@ -1,5 +1,5 @@
 # aarif-coding-assignment
-I am passing input and output file using command line tool
+I am passing input and output files name using command line tool
 
 example 1 of command to execute my prgram
 $ python3 goodies1.py input1.txt output1.txt
